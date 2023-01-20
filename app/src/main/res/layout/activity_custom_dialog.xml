@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/checkboxUser1"
+        android:text="User1"
+        android:drawableLeft="@mipmap/ic_userdialog1">
+    </CheckBox>
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/checkboxUser2"
+        android:text="User2"
+        android:drawableLeft="@mipmap/ic_userdialog2">
+    </CheckBox>
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/checkboxUser3"
+        android:text="User3"
+        android:drawableLeft="@mipmap/ic_userdialog3">
+    </CheckBox>
+</RelativeLayout>
