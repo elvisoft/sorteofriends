@@ -1,5 +1,5 @@
-# sorteofriends
-Juego para sorteo de Nombres
+# SorteoFriends
+Juego para sorteo de Nombres de Amigos.
 
 ### Juego que sirve para sortear nombres de Amigos. Esta hecho en kotlin con Android Studio.
 
